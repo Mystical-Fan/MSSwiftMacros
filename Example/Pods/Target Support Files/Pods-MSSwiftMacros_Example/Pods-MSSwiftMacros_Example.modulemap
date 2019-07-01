@@ -1,0 +1,6 @@
+framework module Pods_MSSwiftMacros_Example {
+  umbrella header "Pods-MSSwiftMacros_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

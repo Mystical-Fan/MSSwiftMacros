@@ -1,0 +1,6 @@
+framework module Pods_MSSwiftMacros_Tests {
+  umbrella header "Pods-MSSwiftMacros_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

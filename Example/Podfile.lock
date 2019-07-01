@@ -1,0 +1,16 @@
+PODS:
+  - MSSwiftMacros (0.1.0)
+
+DEPENDENCIES:
+  - MSSwiftMacros (from `../`)
+
+EXTERNAL SOURCES:
+  MSSwiftMacros:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MSSwiftMacros: 8008d239a25a71c03495ea9be0aa5bcd31e821e5
+
+PODFILE CHECKSUM: 4bbab7fac8cd11a38395f355fb218385f76b2c5c
+
+COCOAPODS: 1.7.2

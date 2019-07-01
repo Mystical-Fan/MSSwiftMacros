@@ -1,0 +1,22 @@
+{
+  "name": "MSSwiftMacros",
+  "version": "0.1.0",
+  "summary": "A short description of MSSwiftMacros.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fanfan-li@outlook.com/MSSwiftMacros",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fanfan-li@outlook.com": "919016308@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fanfan-li@outlook.com/MSSwiftMacros.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MSSwiftMacros/Classes/**/*"
+}
